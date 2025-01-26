@@ -1,5 +1,3 @@
 # practice
 Hello!
-I
-love
-green
+I love green
